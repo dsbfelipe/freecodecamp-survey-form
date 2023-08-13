@@ -1,0 +1,74 @@
+body {
+    background-image: url(images/background.jpg);
+    color: white;
+    width: 50%;
+    min-width: 500px;
+    margin: auto;
+    font-family:FreeMono, monospace;
+    padding-bottom: 30px;
+}
+label {
+    display: block;
+    margin: 9px;
+    font-size: 17px;
+}
+fieldset {
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+fieldset[id="questions"] {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+fieldset[id="personal-information"] {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+fieldset[id="questions"] label {
+    margin: 15px;
+}
+fieldset:last-of-type {
+    border: none;
+}
+input {
+    margin-left: 10px;
+    width: 95%;
+    border-radius: 5px;
+    color: rgb(20, 20, 20);
+}
+select, textarea {
+    margin-left: 16px;
+}
+select {
+    width: 94%;
+    text-align: center;
+}
+input[type="checkbox"] {
+    margin: 5px 0;
+    margin-left: 27px;
+    width: unset;
+}
+p[id="description"], h1 {
+    text-align: center;
+}
+.inline {
+    width: unset;
+    margin-left: 25px;
+}
+form {
+    padding-bottom: 2em;
+}
+input[type="submit"] {
+    margin-top: 2em;
+    border-radius: 5px;
+    width: 97%;
+}
+p[id="description"] {
+    padding-bottom: 10px;
+}
+footer {
+    text-align: center;
+}
