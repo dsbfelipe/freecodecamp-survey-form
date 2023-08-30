@@ -11,7 +11,7 @@ Project for *freeCodeCamp* **Responsive Web Design** course
 A survey form for collecting data from it's users using basic HTML and CSS.
 
 ## Objective
-The objective of this project was to make an app similar to this *<a src="https://survey-form.freecodecamp.rocks/">reference</a>* giving my own personal style and passing the test's requirements, practicing what was learned on the first module of the course, like **HTML forms** and **basic CSS**.
+The objective of this project was to make an app similar to "https://survey-form.freecodecamp.rocks" giving my own personal style and passing the test's requirements, practicing what was learned on the first module of the course, like **HTML forms** and **basic CSS**.
 
 ![Project's screenshot](images/screenshot.png)
 *<p align="right">Project's screenshot.</p>*  
