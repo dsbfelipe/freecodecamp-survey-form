@@ -15,13 +15,13 @@ A survey form for collecting data from it's users using basic HTML and CSS.
 
 The objective of this project was to make an app similar to "https://survey-form.freecodecamp.rocks" giving my own personal style and passing the test's requirements, practicing what was learned on the first module of the course, like **HTML forms** and **basic CSS**.
 
+### **Acknowledgments**
+
+For this project i've used this design from Fefi on Dribbble as inspiration: https://dribbble.com/shots/2700997-Survey
+
 <br>
 
 ![Project's screenshot](images/screenshot.png)
 _<p align="right">Project's screenshot</p>_
 
 <br>
-
-### **Acknowledgments**
-
-For this project i've used this design from Fefi on Dribbble as inspiration: https://dribbble.com/shots/2700997-Survey
