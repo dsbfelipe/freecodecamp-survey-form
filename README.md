@@ -58,7 +58,7 @@ The primary objective of this project was to develop a comprehensive survey form
 
 - **Accessibility**: Improved skills in making forms accessible by properly labeling inputs and using placeholder text for guidance.
 
-## Technologies Used
+## 💻 Technologies Used
 
 - **HTML5** for structuring the form and implementing validation
 
@@ -66,6 +66,6 @@ The primary objective of this project was to develop a comprehensive survey form
 
 ## 💡 Acknowledgements
 
-- **freeCodeCamp**: For providing the inspiration and guidelines for this project.
+- **freeCodeCamp**: For providing guidelines and user stories for this project.
 
 - **Fefi on Dribbble**: For the design inspiration. You can view the design here: <a href="https://dribbble.com/shots/2700997-Survey">Fefi's design</a>.
