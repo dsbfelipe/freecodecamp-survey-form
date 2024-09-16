@@ -5,10 +5,12 @@
 <br>
 <br>
 
+> [!IMPORTANT]
+> This project is part of the freeCodeCamp Responsive Web Design course. While freeCodeCamp provides guidelines and user stories for certification projects, it does not offer tutorials or step-by-step guides for development. This project was built entirely from scratch using my own approach to meet the requirements.
+
 This Survey Form project was created as a certification requirement for the Responsive Web Design course from freeCodeCamp. The goal was to develop a functional Survey Form designed to collect user information efficiently. The form adheres to the functional requirements and had to be similar to the <a href="https://survey-form.freecodecamp.rocks/">freeCodeCamp Survey Form</a> in functionality, although i had the freedom to design the form according to my own style and preferences.
 
-> [!NOTE]
-> This project is part of the freeCodeCamp Responsive Web Design course. While freeCodeCamp provides guidelines and user stories for certification projects, it does not offer tutorials or step-by-step guides for development. This project was built entirely from scratch using my own approach to meet the requirements.
+
 
 <details open>
 <summary>
@@ -68,4 +70,4 @@ The primary objective of this project was to develop a comprehensive survey form
 
 - **freeCodeCamp**: For providing the inspiration and guidelines for this project.
 
-- **Fefi on Dribbble**: For the design inspiration. You can view the design here: <a href="https://dribbble.com/shots/2700997-Survey">Fefi's design</a>.. 
+- **Fefi on Dribbble**: For the design inspiration. You can view the design here: <a href="https://dribbble.com/shots/2700997-Survey">Fefi's design</a>.
